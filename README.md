@@ -4,7 +4,7 @@
 
 # <div align="center" >بسم الله الرحمن الرحيم</div>
 <div align="center"><img src="wahidLink_logo.png" alt="Wahid Link Logo" width="200" height="200"></div>
-This is the 1 stop shop for your islamic needs. 
+This is the one stop shop for your Islamic needs. 
 Try WahidLink today - Linking you to the only One you need.
 
 You can upload custom athans to the app. Acceptable format types are: MP3, WAV, M4A, AAC. It is a proof of concept turned prototype working and ready to be tested. 
